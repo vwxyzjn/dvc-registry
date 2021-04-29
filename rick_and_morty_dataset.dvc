@@ -1,5 +1,5 @@
 outs:
-- md5: 41b07f21e20ac09c4e3e285f755e9204.dir
-  size: 210094
-  nfiles: 1
+- md5: 0e3630f7d85ef1c955707387af63fd81.dir
+  size: 54202836
+  nfiles: 2
   path: rick_and_morty_dataset
